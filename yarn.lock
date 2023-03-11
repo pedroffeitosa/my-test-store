@@ -2640,9 +2640,9 @@
     webpack-assets-manifest "^5.0.1"
 
 "@vtex/gatsby-plugin-theme-ui@^0.281.2-next.0":
-  version "0.281.2-next.2"
-  resolved "https://registry.yarnpkg.com/@vtex/gatsby-plugin-theme-ui/-/gatsby-plugin-theme-ui-0.281.2-next.2.tgz#9d020e78f88c8af3218320c8e3e23ddd3fc66db3"
-  integrity sha512-R/gVlcN2FxXoR/dFKBFKbpHd+qRY7PMDoJsDBT8gZ8G6wv1cbABx3X/QIF/gzCpDebDwYy4X33yAh8YYYbfHHQ==
+  version "0.281.2-next.3"
+  resolved "https://registry.yarnpkg.com/@vtex/gatsby-plugin-theme-ui/-/gatsby-plugin-theme-ui-0.281.2-next.3.tgz#c9bfec52c36b2140fa6661ebb0db1a2d2423ddb5"
+  integrity sha512-LjU8pwpOauLKBAJJINQ8RZx3e2iC9wX8W+04yl/aTIBjEOa7HOHctGbmLK8keJlIg0Aj90BKyhD8xlGr8c3Sfw==
   dependencies:
     "@babel/core" "^7.11.4"
     "@babel/parser" "^7.11.4"
