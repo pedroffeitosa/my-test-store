@@ -2693,10 +2693,10 @@
   resolved "https://registry.yarnpkg.com/@vtex/lighthouse-config/-/lighthouse-config-0.281.1.tgz#ab838fc1192bc64ccd96e83b69858705396c9c25"
   integrity sha512-zQnwe6wMBJyqO2iwI6fKhcr+mSJgEmC7Sws3BgQCQcCKe4lGIdECmbJFQqFUeXzlvKSna/qwfY81Q4KaxHUmKA==
 
-"@vtex/prettier-config@^0.3.5":
-  version "0.3.6"
-  resolved "https://registry.yarnpkg.com/@vtex/prettier-config/-/prettier-config-0.3.6.tgz#31762608d9a59b815b6d4e963e439b12f1a12279"
-  integrity sha512-nXE3BcMODomFK3EowfK+Hdj2qQRqB8JcdRv8yTREXnN9xq8DYKmH/dWB+RY/Hn3KozFLbygpZRbqYsiA6HDINQ==
+"@vtex/prettier-config@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@vtex/prettier-config/-/prettier-config-1.0.0.tgz#a7a7091ecff1da340d398000f4855dc9910aa9c9"
+  integrity sha512-4Uv67bK2eORhzWg/11J5/+fxPUWY6b0sYdhcqMzIgo0zluXlYqbZU6iueKZ48SxG4ODw8ZaqMRfpNsLd3Gw5+Q==
 
 "@vtex/store-ui@0.282.0", "@vtex/store-ui@^0.282.0":
   version "0.282.0"
